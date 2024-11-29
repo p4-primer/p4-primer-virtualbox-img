@@ -2,10 +2,10 @@
 本代码库是 **《P4编程入门》** 的配套代码库，包含一个VirtualBox镜像，操作系统是 ubuntu-20.04。
 该镜像中已经安装了P4开发环境，读者使用VirtualBox导入镜像创建虚拟机即可使用。
 使用方法：
-1. 第一步 百度网盘下载VirtualBox镜像 https://pan.baidu.com/s/1Ve0ASZxiWjovYnUuAwzqrQ?pwd=9i69
-2. 第二步 下载并安装 [VirtualBox](https://www.virtualbox.org/)
-3. 第三步 导入代码库中的镜像 **ubuntu-20.04-p4-primer.ova**，并创建虚拟机
-4. 第四步 启动虚拟机
+1. 百度网盘下载VirtualBox镜像 https://pan.baidu.com/s/1Ve0ASZxiWjovYnUuAwzqrQ?pwd=9i69
+2. 下载并安装 [VirtualBox](https://www.virtualbox.org/)
+3. 导入代码库中的镜像 **ubuntu-20.04-p4-primer.ova**，并创建虚拟机
+4. 启动虚拟机
 
 **注意：**
 * 因为镜像文件超过9G，不能通过github下载，只能通过百度网盘下载。
